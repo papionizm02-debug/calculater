@@ -29,3 +29,19 @@ input{
     background-color: rgb(255, 179, 39);
 }
 
+.clear,.equal{
+    background-color: #989898;
+    width: 185px;
+}
+
+input:active{
+    background: rgb(237, 237, 237);
+}
+
+.operator:active{
+    background: rgb(255, 199, 96);
+}
+
+.clear:active,.equal:active{
+    background: #aeaeae;
+}
